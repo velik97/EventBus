@@ -1,3 +1,3 @@
 # EventBus
 Event system for Unity based on interfaces
-# Made in Owlcat Games
+## Made in [Owlcat Games](https://owlcatgames.com/)
